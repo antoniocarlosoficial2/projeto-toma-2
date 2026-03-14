@@ -1,0 +1,1 @@
+console.log("Olá, mundo! Projeto Toma 2026");
